@@ -1,3 +1,5 @@
+Originaly published on December 2012 at http://blog.bot.co.za/en/article/349/an-erlang-otp-tutorial-for-beginners
+
 # An Erlang OTP tutorial for beginners — A bot blog
 
 This is an Erlang/OTP tutorial for novice Erlang programmers. If you are familiar with Erlang's syntax, know how to compile modules and are curious to discover OTP and how to leverage its power in your own Erlang applications this tutorial is for you. To kick off we are going to create a non-OTP server and supervisor, examine their shortcomings and then turn our code into a proper OTP application. 
